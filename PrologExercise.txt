@@ -1,0 +1,7 @@
+Prolog exercise
+
+swish
+
+sum(x, y, z)
+
+z = x + y without using +
