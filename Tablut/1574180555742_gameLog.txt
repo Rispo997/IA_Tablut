@@ -1,0 +1,3349 @@
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut <init>
+BUONO: Inizio partita
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOOOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOOOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOOOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOOOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOOOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOOOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOOOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOOOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOOBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOWBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOOKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: d2
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOOOOOB
+BBOOKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:35 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBOOTWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTOTWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBWOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: f2
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BWOOOOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: b6
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOOOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOOOBOOOO
+WOOOWOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from f5 to c4
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to g1
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e5 to c7
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c5 to d7
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to a3
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c5 to h1
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e3 to c1
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c5 to i2
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e6 to g2
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to b6
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from f5 to b8
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from g5 to b1
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to c9
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to f3
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e6 to a3
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e6 to c7
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from g5 to d6
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from f5 to h6
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from f5 to i1
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to a9
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e5 to a8
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c5 to c1
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e3 to c3
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:22:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOWBBBWOO
+OOOOBOOOO
+WOWOOOOOO
+BOOOKOOOB
+BBTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut <init>
+BUONO: Inizio partita
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWWBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: d2
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BOOOTWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTOOTWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTOTWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTWWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBWOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: f2
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOWBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:39 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BWOOOOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: b6
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOOOOOB
+OOOOWOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTTTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to g7
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c5 to h4
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c3 to g3
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from g5 to h1
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from d5 to d6
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:22:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOWBBBWOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOKOOOB
+BTTOTOOBB
+BOOTWOOOB
+OOOOOOOOO
+OBOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut <init>
+BUONO: Inizio partita
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOOOOOO
+BOOOWOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOWOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOWOOOO
+BOOOOOOOB
+BOOOKWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: e3
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTWWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBWOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: f2
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBOOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOWBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOWWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWWBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: d2
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BWOOOOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Pedina bianca rimossa in: b6
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOOOOOB
+OOOOWOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Giocatore W cerca di muovere una pedina avversaria
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sul trono
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureWhite
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Mossa sopra una casella occupata
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+AVVERTENZA: Nessuna mossa
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkCaptureBlack
+BUONO: Stabilito un pareggio per troppe mosse senza mangiare
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameTablut checkMove
+BUONO: Stato: OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+D
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c5 to a7
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from f5 to g4
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from f5 to b2
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from f5 to d3
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e4 to b3
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c5 to g8
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from e6 to d2
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from g5 to i7
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from g5 to h1
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from f5 to c4
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: W Pawn from c3 to c6
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:22:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOWBBBWOO
+OOWOBOOOO
+OOOOOOOOO
+BOOOKOOOB
+BOOOTOOBB
+BOOOWOOOB
+OOOOOOOOO
+OBBOOOOOO
+OOOBBBOOO
+-
+W

@@ -1,0 +1,1257 @@
+nov 19, 2019 5:23:53 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+BUONO: Players:	fake	vs	fake
+nov 19, 2019 5:23:53 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+BUONO: Repeated moves allowed:	99	Cache:	0
+nov 19, 2019 5:23:53 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+BUONO: Inizio partita
+nov 19, 2019 5:23:53 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut <init>
+BUONO: Stato:
+OOOBBBOOO
+OOOOBOOOO
+OOOOWOOOO
+BOOOWOOOB
+BBWWKWWBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+B
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to d6
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e2 to h9
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to f8
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to c3
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e2 to b7
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a4 to a2
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:23:57 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOBBBOOO
+BOOOBOOOO
+OOOOWOOOO
+OOOOWOWOB
+BBWWKWOBB
+BOOOWOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:24:01 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h5 to h4
+nov 19, 2019 5:24:01 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:01 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:01 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOBBBOOO
+BOOOBOOOO
+OOOOWOOOO
+OOOOWOWBB
+BBWWKWOOB
+BOWOOOOOB
+OOOOWOOOO
+OOOOBOOOO
+OOOBBBOOO
+-
+W
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to d8
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from f1 to a7
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to g2
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b2
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to h8
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d9 to e6
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to b2
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b7
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to g6
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to g2
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to b2
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b1
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from f1 to h5
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to h7
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to b9
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to c6
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to d3
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to b1
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to b8
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to h1
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to f4
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to h2
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to d7
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d9 to a9
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:05 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOBBBOOO
+BOOOBOOOO
+OOOOWOOOO
+OOOOWOWBB
+BBWWKWOOB
+BOOOOOOOB
+OOWOWOOOO
+OOOOBOOOO
+BOOOBBOOO
+-
+W
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to d6
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to f4
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to g8
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from f1 to i8
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from f1 to g7
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to c3
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to g6
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a9 to c9
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:09 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOBBBOOO
+BOOOBOOOO
+OOOOWOOOO
+OOOOWOWBB
+BBWWTWOOB
+BOOOKOOOB
+OOWOWOOOO
+OOOOBOOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to i8
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to f4
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b5 to d8
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to a4
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to i2
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to c8
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e2 to g9
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to b7
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to b7
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to a4
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to h1
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e2 to f5
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to b4
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to b9
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to f5
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b5 to b8
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:13 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOBBBOOO
+BOOOBOOOO
+OOOOWOOOO
+OOOOWOWBB
+BOWWTOOOB
+BOOOKOOOB
+OOWOWOOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to c4
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to f5
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to h3
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to d7
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to f6
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b8 to a9
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to h9
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to i2
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to i3
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b8 to d2
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to f3
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to a3
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to d7
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b1
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to g5
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to g1
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to a7
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to c8
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to i3
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to d9
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b5
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to h8
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b8 to h7
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to g8
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to g7
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to f7
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d1 to d4
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:16 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOOBBOOO
+BOOOBOOOO
+OOOOWOOOO
+OWOBOOWBB
+BOWWTOOOB
+BOOOKOOOB
+OOWOWOOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to h2
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to c2
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to d1
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from f1 to h2
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to f3
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from f1 to g2
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to g3
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to g8
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to b2
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to f3
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e2 to c8
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to d7
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to h3
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to f7
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from f1 to h7
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d4 to d8
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to b3
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to h3
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to h5
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from f1 to i1
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:20 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOOBOOOB
+BOOOBOOOO
+OOOOWOOOO
+OWOBOOWBB
+BOWWTOOOB
+BOWOKOOOB
+OOOOWOOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to d7
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to i7
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i1 to a3
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b2
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i1 to c4
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i1 to h2
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d4 to g2
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to f4
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i1 to d9
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b8 to c4
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to h9
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una citadel
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to a3
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to g4
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i1 to c8
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i6 to h6
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:24 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOOBOOOB
+BOOOBOOOO
+OOOOWOWOO
+OWOBOOOBB
+BOWWTOOOB
+BOWOKOOBO
+OOOOWOOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:28 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to i2
+nov 19, 2019 5:24:28 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:28 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to d2
+nov 19, 2019 5:24:28 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:28 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:28 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOOBOOOB
+OOOBBOOOO
+OOOWOOWOO
+OWOOOOOBB
+BOWWTOOOB
+BOWOKOOBO
+OOOOWOOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to e4
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca il trono
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i1 to c1
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una citadel
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to h6
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to b3
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to f7
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to h2
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to f7
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to e4
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to h3
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:32 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOOBOOOB
+OOOBBOOOO
+OOOWOOWBO
+OWOOOOOOB
+BOWWTOOOB
+BOWOOOKOO
+OOOOWOOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b8 to d1
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b8 to f4
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e2 to f3
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h3 to e3
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to a1
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i1 to i3
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:36 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOOBOOOO
+OOOBBOOOO
+OOOWOOWBB
+OOOWOOOOB
+BOWWTOOOB
+BOWOOOKOO
+OOOOWOOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to a2
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b8 to b4
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una citadel
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to h1
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to a9
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e2 to f1
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to h1
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a5 to a2
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:40 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+OOOOBOOOO
+BOOBBOOOO
+OOOWOOWBB
+OOOWOOOOB
+OOWOTOOOB
+BOWWOOKOO
+OOOOWOOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to f3
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to a4
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to h2
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to d5
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to d8
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to b4
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to a7
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b9
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to h4
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to d5
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to h5
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b1
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e1 to a1
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:43 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+BOOOOOOOO
+BOOBBOOOO
+OOOWOOWBB
+OOOWOOOOB
+OOWOTOOOB
+BOWWOOKOO
+OOOOOOOOW
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to f6
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to c4
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to b2
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e2 to i2
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:47 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+BOOOOOOOO
+BOOBOOOOB
+OOOWOOWBB
+OOOWOOOOB
+OOWOTOOOB
+BOWWOOKOO
+OOOOOWOOO
+OBOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to c1
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to a3
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i2 to h5
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to b4
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to h2
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to h6
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b8 to b7
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:50 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+BOOOOOOOO
+BOOBOOOOB
+OOOWOOWBB
+OOOWOOOOB
+OOWOTOOOB
+BOWWOOKOO
+OBOOOOOWO
+OOOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b8
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to d1
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to c7
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h3 to c7
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h3 to e6
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to g8
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to g8
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b7 to g2
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to c8
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to f7
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b7 to e4
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to a8
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una citadel
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to a7
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una citadel
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to e1
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from b7 to b5
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to e6
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to d5
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to d5
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to b1
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to h6
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b3
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to i1
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to e3
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca il trono
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to c7
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a1 to i7
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i4 to h4
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:54 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+BOOOOOOOO
+BOOBOOOOB
+OOOWOOWBB
+OOWOOOOBO
+OOWOTOOOB
+BOWWOOKOO
+OBOOOOOWO
+OOOOBWOOO
+OOBOBBOOO
+-
+W
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to h9
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una citadel
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a1 to e3
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to h8
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i2 to d4
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to f4
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a1 to f3
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to c3
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i2 to f6
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to b1
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to b5
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to i1
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to a9
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to b5
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a1 to c7
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to d7
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to b4
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to b6
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to h1
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to h8
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una citadel
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i2 to g7
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h3 to h8
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to e7
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a1 to e4
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to a4
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h3 to d4
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to d4
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to f7
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h4 to h9
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una citadel
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i2 to d5
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h3 to b5
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to h2
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to b2
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to b6
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i5 to h2
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to i4
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i2 to b2
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a1 to h8
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a6 to d9
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e9 to g9
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from e8 to f5
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i3 to c3
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che scavalca una pedina
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from c9 to c7
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:24:58 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+BOOOOOOOO
+BOOBOOOOB
+WOOOOOWBB
+OOWOOOOBO
+OOWOTOOOB
+BOWWOOKOO
+OBBOOOOWO
+OOOOBWOOO
+OOOOBBOOO
+-
+W
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to i7
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i2 to b5
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa che arriva sopra una citadel
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a2 to b9
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a1 to g4
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from h3 to f2
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to b4
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from a1 to g2
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from d2 to e6
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+AVVERTENZA: Mossa in diagonale
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Turn: B Pawn from i2 to i1
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut movePawn
+BUONO: Movimento pedina
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Current draw cache size: 1
+nov 19, 2019 5:25:02 PM it.unibo.ai.didattica.competition.tablut.domain.GameAshtonTablut checkMove
+BUONO: Stato:
+BOOOOOOOB
+BOOBOOOOO
+WWOOOOOBB
+OOWOOOOBO
+OOWOTOOOB
+BOWWOOKOO
+OBBOOOOWO
+OOOOBWOOO
+OOOOBBOOO
+-
+W

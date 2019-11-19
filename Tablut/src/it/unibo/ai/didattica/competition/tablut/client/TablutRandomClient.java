@@ -180,7 +180,7 @@ public class TablutRandomClient extends TablutClient {
 					}
 
 					int[] selected = null;
-					getPossibleMoves(pawns, state, rules, Turn.WHITE);
+					getPossibleMoves(pawns, new StateTablut(), new GameTablut(), Turn.WHITE);
 					boolean found = false;
 					Action a = null;
 					try {

@@ -33,7 +33,7 @@ with open('dataset.csv', mode='w') as dataset:
                     #True se la mossa è del bianco
                     state.append(int(file.readline()[0] == "B"))
                     treshold = 1
-                    state.append((evaluation/turns)**(turns/treshold)*winner)
+                    state.append((evaluation/turns)**(turns**2/treshold)*winner)
                     #state.append((evaluation/turns)*winner)
                     dataset_writer.writerow(state)
                 first = False
