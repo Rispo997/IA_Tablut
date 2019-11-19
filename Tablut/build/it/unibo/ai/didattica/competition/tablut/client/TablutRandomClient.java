@@ -12,6 +12,14 @@ import java.util.Random;
 
 import it.unibo.ai.didattica.competition.tablut.domain.*;
 import it.unibo.ai.didattica.competition.tablut.domain.State.Turn;
+import it.unibo.ai.didattica.competition.tablut.exceptions.ActionException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.BoardException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.ClimbingException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.DiagonalException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.OccupitedException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.PawnException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.StopException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.ThroneException;
 
 /**
  * 
@@ -68,8 +76,10 @@ public class TablutRandomClient extends TablutClient {
 	 * Restituisce, per ogni pedina, la lista di mosse possibili.
 	 * 
 	 */
-	private Map<Integer, List<Point>> getPossibleMoves(List<int[]> pawns,State gameState,Game rules, Turn currentTurn) {
-		Map<Integer, List<Point>> moves = new HashMap<Integer, List<Point>>();
+	private Map<Point, List<Point>> getPossibleMoves(List<int[]> pawns, State gameState, Game rules, Turn currentTurn)
+			throws IOException {
+		Map<Point, List<Point>> moves = new HashMap<Point, List<Point>>();
+
 		for (int[] pawn : pawns) {
 			List<Point> pawnMoves = new LinkedList<Point>();
 			// Posizione di partenza della pedina
@@ -77,28 +87,29 @@ public class TablutRandomClient extends TablutClient {
 			// Calcola tutte le mosse possibili sulla colonna della pedina
 			for (int i = 0; i < gameState.getBoard().length; i++) {
 				String to = this.getCurrentState().getBox(i, pawn[1]);
-				try {
-					rules.checkMove(gameState, new Action(from, to, currentTurn));
-					pawnMoves.add(new Point(i,pawn[1]));
-				}catch (Exception e) {
-					
+
+				if (this.checkMove(gameState, new Action(from, to, currentTurn))) {
+					pawnMoves.add(new Point(i, pawn[1]));
+
 				}
 			}
 			// Calcola tutte le mosse possibili sulla riga della pedina
 			for (int j = 0; j < gameState.getBoard().length; j++) {
 				String to = this.getCurrentState().getBox(pawn[0], j);
-				try {
-					rules.checkMove(gameState, new Action(from, to, currentTurn));
-					pawnMoves.add(new Point(pawn[0],j));
-				}catch (Exception e) {
-					
+
+				if (this.checkMove(gameState, new Action(from, to, currentTurn))) {
+					pawnMoves.add(new Point(pawn[0], j));
 				}
 			}
-			moves.put(pawns.indexOf(pawn), pawnMoves);
+
+			moves.put(new Point(pawn[0], pawn[1]), pawnMoves);
 		}
-		System.out.println(moves);
+		for(Point move:moves.keySet()) {
+			System.out.println("La pedina:" + move.toString() + "Può effettuare le seguenti mosse");
+			System.out.println(moves.get(move));
+		}
 		return moves;
-		
+
 	}
 
 	@Override
@@ -180,7 +191,12 @@ public class TablutRandomClient extends TablutClient {
 					}
 
 					int[] selected = null;
-					getPossibleMoves(pawns, new StateTablut(), new GameTablut(), Turn.WHITE);
+					try {
+						getPossibleMoves(pawns, state, rules, Turn.WHITE);
+					} catch (IOException e2) {
+						// TODO Auto-generated catch block
+						e2.printStackTrace();
+					}
 					boolean found = false;
 					Action a = null;
 					try {
@@ -332,5 +348,116 @@ public class TablutRandomClient extends TablutClient {
 			}
 		}
 
+	}
+	
+	public Boolean checkMove(State state, Action a) 
+	{
+		//this.loggGame.fine(a.toString());
+		//controllo la mossa
+		if(a.getTo().length()!=2 || a.getFrom().length()!=2)
+		{
+			return false;
+		}
+		int columnFrom = a.getColumnFrom();
+		int columnTo = a.getColumnTo();
+		int rowFrom = a.getRowFrom();
+		int rowTo = a.getRowTo();
+		
+		//controllo se sono fuori dal tabellone
+		if(columnFrom>state.getBoard().length-1 || rowFrom>state.getBoard().length-1 || rowTo>state.getBoard().length-1 || columnTo>state.getBoard().length-1 || columnFrom<0 || rowFrom<0 || rowTo<0 || columnTo<0)
+		{
+			return false;		
+		}
+		
+		//controllo che non vada sul trono
+		if(state.getPawn(rowTo, columnTo).equalsPawn(State.Pawn.THRONE.toString()))
+		{
+			return false;
+		}
+		
+		//controllo la casella di arrivo
+		if(!state.getPawn(rowTo, columnTo).equalsPawn(State.Pawn.EMPTY.toString()))
+		{
+			return false;
+		}
+		
+		//controllo se cerco di stare fermo
+		if(rowFrom==rowTo && columnFrom==columnTo)
+		{
+			return false;
+		}
+		
+		//controllo se sto muovendo una pedina giusta
+		if(state.getTurn().equalsTurn(State.Turn.WHITE.toString()))
+		{
+			if(!state.getPawn(rowFrom, columnFrom).equalsPawn("W") && !state.getPawn(rowFrom, columnFrom).equalsPawn("K"))
+			{
+				return false;
+			}
+		}
+		if(state.getTurn().equalsTurn(State.Turn.BLACK.toString()))
+		{
+			if(!state.getPawn(rowFrom, columnFrom).equalsPawn("B"))
+			{
+				return false;
+			}
+		}
+		
+		//controllo di non muovere in diagonale
+		if(rowFrom != rowTo && columnFrom != columnTo)
+		{
+			return false;
+		}
+		
+		//controllo di non scavalcare pedine
+		if(rowFrom==rowTo)
+		{
+			if(columnFrom>columnTo)
+			{
+				for(int i=columnTo; i<columnFrom; i++)
+				{
+					if(!state.getPawn(rowFrom, i).equalsPawn(State.Pawn.EMPTY.toString()))
+					{
+						return false;
+					}
+				}
+			}
+			else
+			{
+				for(int i=columnFrom+1; i<=columnTo; i++)
+				{
+					if(!state.getPawn(rowFrom, i).equalsPawn(State.Pawn.EMPTY.toString()))
+					{
+						return false;
+					}
+				}
+			}
+		}
+		else
+		{
+			if(rowFrom>rowTo)
+			{
+				for(int i=rowTo; i<rowFrom; i++)
+				{
+					if(!state.getPawn(i, columnFrom).equalsPawn(State.Pawn.EMPTY.toString()) && !state.getPawn(i, columnFrom).equalsPawn(State.Pawn.THRONE.toString()))
+					{
+						return false;
+					}
+				}
+			}
+			else
+			{
+				for(int i=rowFrom+1; i<=rowTo; i++)
+				{
+					if(!state.getPawn(i, columnFrom).equalsPawn(State.Pawn.EMPTY.toString()) && !state.getPawn(i, columnFrom).equalsPawn(State.Pawn.THRONE.toString()))
+					{
+						return false;
+					}
+				}
+			}
+		}
+		
+		
+		return true;
 	}
 }
