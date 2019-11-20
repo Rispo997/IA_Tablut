@@ -11,6 +11,7 @@ import java.util.Map;
 import java.util.Random;
 
 import it.unibo.ai.didattica.competition.tablut.domain.*;
+import it.unibo.ai.didattica.competition.tablut.domain.State.Pawn;
 import it.unibo.ai.didattica.competition.tablut.domain.State.Turn;
 import it.unibo.ai.didattica.competition.tablut.exceptions.ActionException;
 import it.unibo.ai.didattica.competition.tablut.exceptions.BoardException;
@@ -97,9 +98,9 @@ public class TablutIAClient extends TablutClient {
 	 * Restituisce, per ogni pedina, la lista di mosse possibili.
 	 * 
 	 */
-	private Map<String, List<String>> getPossibleMoves(List<int[]> pawns, State gameState, Game rules, Turn currentTurn)
+	private Map<Pawn, List<String>> getPossibleMoves(List<int[]> pawns, State gameState, Game rules, Turn currentTurn)
 			throws IOException {
-		Map<String, List<String>> moves = new HashMap<String, List<String>>();
+		Map<Pawn, List<String>> moves = new HashMap<Pawn, List<String>>();
 
 		for (int[] pawn : pawns) {
 			List<String> pawnMoves = new LinkedList<String>();
@@ -123,15 +124,17 @@ public class TablutIAClient extends TablutClient {
 				}
 			}
 
-			moves.put(gameState.getBox(pawn[0], pawn[1]), pawnMoves);
+			moves.put(gameState.getPawn(pawn[0], pawn[1]), pawnMoves);
 		}
 		//Debugging
+		/*
 		for (String move : moves.keySet()) {
 			System.out.println("La pedina: " + move.toString() + " Puo' effettuare le seguenti mosse");
 			System.out.println(moves.get(move));
 		}
+		
+		 */
 		return moves;
-
 	}
 	
 	private Map<int, int> bestMove(State gameState, Map<String, List<String>> possibleMoves, String ) {
