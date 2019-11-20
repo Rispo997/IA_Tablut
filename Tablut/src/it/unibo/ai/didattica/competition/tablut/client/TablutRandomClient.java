@@ -14,6 +14,8 @@ import it.unibo.ai.didattica.competition.tablut.domain.*;
 import it.unibo.ai.didattica.competition.tablut.domain.State.Turn;
 import it.unibo.ai.didattica.competition.tablut.exceptions.ActionException;
 import it.unibo.ai.didattica.competition.tablut.exceptions.BoardException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.CitadelException;
+import it.unibo.ai.didattica.competition.tablut.exceptions.ClimbingCitadelException;
 import it.unibo.ai.didattica.competition.tablut.exceptions.ClimbingException;
 import it.unibo.ai.didattica.competition.tablut.exceptions.DiagonalException;
 import it.unibo.ai.didattica.competition.tablut.exceptions.OccupitedException;
@@ -29,10 +31,29 @@ import it.unibo.ai.didattica.competition.tablut.exceptions.ThroneException;
 public class TablutRandomClient extends TablutClient {
 
 	private int game;
+	private ArrayList<String> citadels;
 
 	public TablutRandomClient(String player, String name, int gameChosen) throws UnknownHostException, IOException {
 		super(player, name);
 		game = gameChosen;
+		this.citadels = new ArrayList<String>();
+		// this.strangeCitadels = new ArrayList<String>();
+		this.citadels.add("a4");
+		this.citadels.add("a5");
+		this.citadels.add("a6");
+		this.citadels.add("b5");
+		this.citadels.add("d1");
+		this.citadels.add("e1");
+		this.citadels.add("f1");
+		this.citadels.add("e2");
+		this.citadels.add("i4");
+		this.citadels.add("i5");
+		this.citadels.add("i6");
+		this.citadels.add("h5");
+		this.citadels.add("d9");
+		this.citadels.add("e9");
+		this.citadels.add("f9");
+		this.citadels.add("e8");
 	}
 
 	public TablutRandomClient(String player) throws UnknownHostException, IOException {
@@ -71,17 +92,17 @@ public class TablutRandomClient extends TablutClient {
 		TablutRandomClient client = new TablutRandomClient(role, name, gametype);
 		client.run();
 	}
-	
+
 	/*
 	 * Restituisce, per ogni pedina, la lista di mosse possibili.
 	 * 
 	 */
-	private Map<Point, List<Point>> getPossibleMoves(List<int[]> pawns, State gameState, Game rules, Turn currentTurn)
+	private Map<String, List<String>> getPossibleMoves(List<int[]> pawns, State gameState, Game rules, Turn currentTurn)
 			throws IOException {
-		Map<Point, List<Point>> moves = new HashMap<Point, List<Point>>();
+		Map<String, List<String>> moves = new HashMap<String, List<String>>();
 
 		for (int[] pawn : pawns) {
-			List<Point> pawnMoves = new LinkedList<Point>();
+			List<String> pawnMoves = new LinkedList<String>();
 			// Posizione di partenza della pedina
 			String from = this.getCurrentState().getBox(pawn[0], pawn[1]);
 			// Calcola tutte le mosse possibili sulla colonna della pedina
@@ -89,7 +110,7 @@ public class TablutRandomClient extends TablutClient {
 				String to = this.getCurrentState().getBox(i, pawn[1]);
 
 				if (this.checkMove(gameState, new Action(from, to, currentTurn))) {
-					pawnMoves.add(new Point(i, pawn[1]));
+					pawnMoves.add(gameState.getBox(i, pawn[1]));
 
 				}
 			}
@@ -98,14 +119,15 @@ public class TablutRandomClient extends TablutClient {
 				String to = this.getCurrentState().getBox(pawn[0], j);
 
 				if (this.checkMove(gameState, new Action(from, to, currentTurn))) {
-					pawnMoves.add(new Point(pawn[0], j));
+					pawnMoves.add(gameState.getBox(pawn[0], j));
 				}
 			}
 
-			moves.put(new Point(pawn[0], pawn[1]), pawnMoves);
+			moves.put(gameState.getBox(pawn[0], pawn[1]), pawnMoves);
 		}
-		for(Point move:moves.keySet()) {
-			System.out.println("La pedina:" + move.toString() + "Può effettuare le seguenti mosse");
+		//Debugging
+		for (String move : moves.keySet()) {
+			System.out.println("La pedina: " + move.toString() + " Puo' effettuare le seguenti mosse");
 			System.out.println(moves.get(move));
 		}
 		return moves;
@@ -349,115 +371,132 @@ public class TablutRandomClient extends TablutClient {
 		}
 
 	}
-	
-	public Boolean checkMove(State state, Action a) 
-	{
-		//this.loggGame.fine(a.toString());
-		//controllo la mossa
-		if(a.getTo().length()!=2 || a.getFrom().length()!=2)
-		{
-			return false;
-		}
+
+	public Boolean checkMove(State state, Action a) {
 		int columnFrom = a.getColumnFrom();
 		int columnTo = a.getColumnTo();
 		int rowFrom = a.getRowFrom();
 		int rowTo = a.getRowTo();
-		
-		//controllo se sono fuori dal tabellone
-		if(columnFrom>state.getBoard().length-1 || rowFrom>state.getBoard().length-1 || rowTo>state.getBoard().length-1 || columnTo>state.getBoard().length-1 || columnFrom<0 || rowFrom<0 || rowTo<0 || columnTo<0)
-		{
-			return false;		
-		}
-		
-		//controllo che non vada sul trono
-		if(state.getPawn(rowTo, columnTo).equalsPawn(State.Pawn.THRONE.toString()))
-		{
+
+		// controllo se sono fuori dal tabellone
+		if (columnFrom > state.getBoard().length - 1 || rowFrom > state.getBoard().length - 1
+				|| rowTo > state.getBoard().length - 1 || columnTo > state.getBoard().length - 1 || columnFrom < 0
+				|| rowFrom < 0 || rowTo < 0 || columnTo < 0) {
 			return false;
 		}
-		
-		//controllo la casella di arrivo
-		if(!state.getPawn(rowTo, columnTo).equalsPawn(State.Pawn.EMPTY.toString()))
-		{
+
+		// controllo che non vada sul trono
+		if (state.getPawn(rowTo, columnTo).equalsPawn(State.Pawn.THRONE.toString())) {
 			return false;
 		}
-		
-		//controllo se cerco di stare fermo
-		if(rowFrom==rowTo && columnFrom==columnTo)
-		{
+
+		// controllo la casella di arrivo
+		if (!state.getPawn(rowTo, columnTo).equalsPawn(State.Pawn.EMPTY.toString())) {
 			return false;
 		}
-		
-		//controllo se sto muovendo una pedina giusta
-		if(state.getTurn().equalsTurn(State.Turn.WHITE.toString()))
-		{
-			if(!state.getPawn(rowFrom, columnFrom).equalsPawn("W") && !state.getPawn(rowFrom, columnFrom).equalsPawn("K"))
-			{
+		if (this.citadels.contains(state.getBox(rowTo, columnTo))
+				&& !this.citadels.contains(state.getBox(rowFrom, columnFrom))) {
+			return false;
+		}
+		if (this.citadels.contains(state.getBox(rowTo, columnTo))
+				&& this.citadels.contains(state.getBox(rowFrom, columnFrom))) {
+			if (rowFrom == rowTo) {
+				if (columnFrom - columnTo > 5 || columnFrom - columnTo < -5) {
+					return false;
+				}
+			} else {
+				if (rowFrom - rowTo > 5 || rowFrom - rowTo < -5) {
+					return false;
+				}
+			}
+
+		}
+
+		// controllo se cerco di stare fermo
+		if (rowFrom == rowTo && columnFrom == columnTo) {
+			return false;
+		}
+
+		// controllo se sto muovendo una pedina giusta
+		if (state.getTurn().equalsTurn(State.Turn.WHITE.toString())) {
+			if (!state.getPawn(rowFrom, columnFrom).equalsPawn("W")
+					&& !state.getPawn(rowFrom, columnFrom).equalsPawn("K")) {
 				return false;
 			}
 		}
-		if(state.getTurn().equalsTurn(State.Turn.BLACK.toString()))
-		{
-			if(!state.getPawn(rowFrom, columnFrom).equalsPawn("B"))
-			{
+		if (state.getTurn().equalsTurn(State.Turn.BLACK.toString())) {
+			if (!state.getPawn(rowFrom, columnFrom).equalsPawn("B")) {
 				return false;
 			}
 		}
-		
-		//controllo di non muovere in diagonale
-		if(rowFrom != rowTo && columnFrom != columnTo)
-		{
+
+		// controllo di non muovere in diagonale
+		if (rowFrom != rowTo && columnFrom != columnTo) {
 			return false;
 		}
-		
-		//controllo di non scavalcare pedine
-		if(rowFrom==rowTo)
-		{
-			if(columnFrom>columnTo)
-			{
-				for(int i=columnTo; i<columnFrom; i++)
-				{
-					if(!state.getPawn(rowFrom, i).equalsPawn(State.Pawn.EMPTY.toString()))
-					{
+
+		// controllo di non scavalcare pedine
+		if (rowFrom == rowTo) {
+			if (columnFrom > columnTo) {
+				for (int i = columnTo; i < columnFrom; i++) {
+					if (!state.getPawn(rowFrom, i).equalsPawn(State.Pawn.EMPTY.toString())) {
+						if (state.getPawn(rowFrom, i).equalsPawn(State.Pawn.THRONE.toString())) {
+							return false;
+						} else {
+							return false;
+						}
+					}
+					if (this.citadels.contains(state.getBox(rowFrom, i))
+							&& !this.citadels.contains(state.getBox(a.getRowFrom(), a.getColumnFrom()))) {
+						return false;
+					}
+				}
+			} else {
+				for (int i = columnFrom + 1; i <= columnTo; i++) {
+					if (!state.getPawn(rowFrom, i).equalsPawn(State.Pawn.EMPTY.toString())) {
+						if (state.getPawn(rowFrom, i).equalsPawn(State.Pawn.THRONE.toString())) {
+							return false;
+						} else {
+							return false;
+						}
+					}
+					if (this.citadels.contains(state.getBox(rowFrom, i))
+							&& !this.citadels.contains(state.getBox(a.getRowFrom(), a.getColumnFrom()))) {
 						return false;
 					}
 				}
 			}
-			else
-			{
-				for(int i=columnFrom+1; i<=columnTo; i++)
-				{
-					if(!state.getPawn(rowFrom, i).equalsPawn(State.Pawn.EMPTY.toString()))
-					{
+		} else {
+			if (rowFrom > rowTo) {
+				for (int i = rowTo; i < rowFrom; i++) {
+					if (!state.getPawn(i, columnFrom).equalsPawn(State.Pawn.EMPTY.toString())) {
+						if (state.getPawn(i, columnFrom).equalsPawn(State.Pawn.THRONE.toString())) {
+							return false;
+						} else {
+							return false;
+						}
+					}
+					if (this.citadels.contains(state.getBox(i, columnFrom))
+							&& !this.citadels.contains(state.getBox(a.getRowFrom(), a.getColumnFrom()))) {
+						return false;
+					}
+				}
+			} else {
+				for (int i = rowFrom + 1; i <= rowTo; i++) {
+					if (!state.getPawn(i, columnFrom).equalsPawn(State.Pawn.EMPTY.toString())) {
+						if (state.getPawn(i, columnFrom).equalsPawn(State.Pawn.THRONE.toString())) {
+							return false;
+						} else {
+							return false;
+						}
+					}
+					if (this.citadels.contains(state.getBox(i, columnFrom))
+							&& !this.citadels.contains(state.getBox(a.getRowFrom(), a.getColumnFrom()))) {
 						return false;
 					}
 				}
 			}
 		}
-		else
-		{
-			if(rowFrom>rowTo)
-			{
-				for(int i=rowTo; i<rowFrom; i++)
-				{
-					if(!state.getPawn(i, columnFrom).equalsPawn(State.Pawn.EMPTY.toString()) && !state.getPawn(i, columnFrom).equalsPawn(State.Pawn.THRONE.toString()))
-					{
-						return false;
-					}
-				}
-			}
-			else
-			{
-				for(int i=rowFrom+1; i<=rowTo; i++)
-				{
-					if(!state.getPawn(i, columnFrom).equalsPawn(State.Pawn.EMPTY.toString()) && !state.getPawn(i, columnFrom).equalsPawn(State.Pawn.THRONE.toString()))
-					{
-						return false;
-					}
-				}
-			}
-		}
-		
-		
 		return true;
 	}
 }
