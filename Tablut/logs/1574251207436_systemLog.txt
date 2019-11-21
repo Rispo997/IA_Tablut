@@ -1,0 +1,10 @@
+nov 20, 2019 1:00:07 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+BUONO: Accensione server
+nov 20, 2019 1:00:07 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+BUONO: Partita di Tablut
+nov 20, 2019 1:00:15 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+BUONO: Accettata connessione con client giocatore Bianco
+nov 20, 2019 1:00:15 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+BUONO: Lettura nome player bianco in corso..
+nov 20, 2019 1:00:16 PM it.unibo.ai.didattica.competition.tablut.server.Server run
+BUONO: White player name:	random

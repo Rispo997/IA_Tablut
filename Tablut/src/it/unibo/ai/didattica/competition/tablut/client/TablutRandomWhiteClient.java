@@ -10,7 +10,7 @@ public class TablutRandomWhiteClient {
 		if (args.length>0){
 			array = new String[]{"WHITE", args[0]};
 		}
-		TablutIAClient.main(array);
+		TablutRandomClient.main(array);
 	}
 
 

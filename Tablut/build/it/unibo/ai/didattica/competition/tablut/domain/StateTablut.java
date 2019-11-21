@@ -1,3 +1,6 @@
+
+
+
 package it.unibo.ai.didattica.competition.tablut.domain;
 
 import java.io.Serializable;

@@ -125,8 +125,9 @@ public class TablutRandomClient extends TablutClient {
 
 			moves.put(gameState.getBox(pawn[0], pawn[1]), pawnMoves);
 		}
+		//Debugging
 		for (String move : moves.keySet()) {
-			System.out.println("La pedina:" + move.toString() + "Puo' effettuare le seguenti mosse");
+			System.out.println("La pedina: " + move.toString() + " Puo' effettuare le seguenti mosse");
 			System.out.println(moves.get(move));
 		}
 		return moves;
