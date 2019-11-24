@@ -32,6 +32,8 @@ import it.unibo.ai.didattica.competition.tablut.exceptions.ThroneException;
  */
 public class TablutIAClient extends TablutClient {
 
+	final int NUM_FEATURES_PER_BOX = 4;
+	
 	private int game;
 	private ArrayList<String> citadels;
 
@@ -147,17 +149,20 @@ public class TablutIAClient extends TablutClient {
 	private Action getBestMove(Game rules, State gameState, Map<String, List<String>> possibleMoves, Turn player) {
 		// current state
 		boolean first = true;
-		double[] currentState = new double[gameState.getBoard().length * gameState.getBoard().length * 3 + 1];
+		
+		double[] currentState = new double[gameState.getBoard().length * gameState.getBoard().length * NUM_FEATURES_PER_BOX + 1];
 		String bestFrom = "-1", bestTo = "-1";
-		double bestEvaluations = player.equals(State.Turn.BLACK) ? -1 : 1;
+		double bestEvaluations = player.equals(State.Turn.BLACK) ? 1 : -1;
 		for (int i = 0; i < gameState.getBoard().length; i++) {
 			for (int j = 0; j < gameState.getBoard().length; j++) {
-				currentState[(i * gameState.getBoard().length + j) * 3] = gameState.getPawn(i, j)
+				currentState[(i * gameState.getBoard().length + j) * NUM_FEATURES_PER_BOX] = gameState.getPawn(i, j)
 						.equalsPawn(State.Pawn.BLACK.toString()) ? 1 : 0;
-				currentState[(i * gameState.getBoard().length + j) * 3 + 1] = gameState.getPawn(i, j)
+				currentState[(i * gameState.getBoard().length + j) * NUM_FEATURES_PER_BOX + 1] = gameState.getPawn(i, j)
 						.equalsPawn(State.Pawn.WHITE.toString()) ? 1 : 0;
-				currentState[(i * gameState.getBoard().length + j) * 3 + 2] = gameState.getPawn(i, j)
+				currentState[(i * gameState.getBoard().length + j) * NUM_FEATURES_PER_BOX + 2] = gameState.getPawn(i, j)
 						.equalsPawn(State.Pawn.KING.toString()) ? 1 : 0;
+				currentState[(i * gameState.getBoard().length + j) * NUM_FEATURES_PER_BOX + 3] = gameState.getPawn(i, j)
+						.equalsPawn(State.Pawn.EMPTY.toString()) ? 1 : 0;
 			}
 		}
 		double[] state = null;
@@ -165,23 +170,27 @@ public class TablutIAClient extends TablutClient {
 		for (String from : possibleMoves.keySet()) {
 			for (String to : possibleMoves.get(from)) {
 				state = cloneDoubleArray(currentState);
-				state[gameState.getBoard().length * gameState.getBoard().length * 3] = player.equals(State.Turn.BLACK)
+				state[gameState.getBoard().length * gameState.getBoard().length * NUM_FEATURES_PER_BOX] = player.equals(State.Turn.BLACK)
 						? 1.0
 						: 0.0;
 				state[((to.charAt(1) - 49) * gameState.getBoard().length + (Character.toLowerCase(to.charAt(0)) - 97))
-						* 3] = state[((to.charAt(1) - 49) * gameState.getBoard().length
-								+ (Character.toLowerCase(from.charAt(0)) - 97)) * 3];
+						* NUM_FEATURES_PER_BOX] = state[((to.charAt(1) - 49) * gameState.getBoard().length
+								+ (Character.toLowerCase(from.charAt(0)) - 97)) * NUM_FEATURES_PER_BOX];
 				state[((to.charAt(1) - 49) * gameState.getBoard().length + (Character.toLowerCase(to.charAt(0)) - 97))
-						* 3
+						* NUM_FEATURES_PER_BOX
 						+ 1] = state[((to.charAt(1) - 49) * gameState.getBoard().length
-								+ (Character.toLowerCase(to.charAt(0)) - 97)) * 3 + 1];
+								+ (Character.toLowerCase(to.charAt(0)) - 97)) * NUM_FEATURES_PER_BOX + 1];
 				state[((to.charAt(1) - 49) * gameState.getBoard().length + (Character.toLowerCase(to.charAt(0)) - 97))
-						* 3
+						* NUM_FEATURES_PER_BOX
 						+ 2] = state[((to.charAt(1) - 49) * gameState.getBoard().length
-								+ (Character.toLowerCase(to.charAt(0)) - 97)) * 3 + 2];
+								+ (Character.toLowerCase(to.charAt(0)) - 97)) * NUM_FEATURES_PER_BOX + 2];
+				state[((to.charAt(1) - 49) * gameState.getBoard().length + (Character.toLowerCase(to.charAt(0)) - 97))
+						* NUM_FEATURES_PER_BOX
+						+ 3] = state[((to.charAt(1) - 49) * gameState.getBoard().length
+								+ (Character.toLowerCase(to.charAt(0)) - 97)) * NUM_FEATURES_PER_BOX + 3];
 				double score = Model.scoreWhite(state);
-				if (player.equals(State.Turn.BLACK) && score > bestEvaluations
-						|| player.equals(State.Turn.WHITE) && score < bestEvaluations) {
+				if (player.equals(State.Turn.BLACK) && score < bestEvaluations
+						|| player.equals(State.Turn.WHITE) && score > bestEvaluations) {
 					bestEvaluations = score;
 					bestFrom = from;
 					bestTo = to;
@@ -201,7 +210,8 @@ public class TablutIAClient extends TablutClient {
 						System.out.print("W ");
 					else if(currentState[i+2] == 1)
 						System.out.print("K ");
-					else System.out.print("O ");
+					else if(currentState[i+3] == 1)
+						System.out.print("O ");
 				}
 				System.out.println("]\nfrom: " + bestFrom + "\nto: " + bestTo);
 			}
